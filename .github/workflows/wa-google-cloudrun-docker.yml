@@ -22,9 +22,9 @@ jobs:
     runs-on: ubuntu-latest
     environment: wagcp_deploy
     env:
-      IMAGE_NAME: gcr.io/${{ secrets.GCP_PROJECT_ID }}/smeqihc
+      IMAGE_NAME: gcr.io/${{ secrets.GCP_PROJECT_ID }}/smeqihc 
     steps:
-      # Git checkout
+      # Git checkout v3
       - name: Checkout
         uses: actions/checkout@v3
 
