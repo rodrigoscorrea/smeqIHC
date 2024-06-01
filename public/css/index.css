@@ -1,6 +1,6 @@
 img{
-    width: 269px;
-    height: 530px;
+    width: 330px;
+    height: 700px;
 }
 
 .container{
@@ -14,12 +14,12 @@ img{
 /* The slider itself */
 .slider {
     margin-left: 25px;
-    margin-top: 250px;
+    margin-top: 340px;
     position: absolute;
     transform: rotate(270deg);
     -webkit-appearance: none;  /* Override default CSS styles */
     appearance: none;
-    width: 505px; /* Full-width */
+    width: 670px; /* Full-width */
     height: 25px; /* Specified height */
     background: #d3d3d3; /* Grey background */
     outline: none; /* Remove outline */
