@@ -15,3 +15,4 @@
 
 - A aplicação não possui banco de dados, ou seja, o valor do smeq deve ser guardado pelos aplicadores do teste de usabilidade
 - A responsividade da aplicação não foi testada, então a proporção da figura e do slider pode se comportar de forma anômala dependendo da tela do dispositivo
+- A aplicaçao foi criada para deploy na google cloud, mas não está mais disponível essa opção
