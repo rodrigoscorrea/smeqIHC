@@ -1,8 +1,11 @@
 # Como instalar
 
 1 - clone o repositório
+
 2 - Rode o comando ```npm install``` para instalar as dependências
+
 3 - Rode o comando ```npm start``` para iniciar a aplicação
+
 
 # Como acessar 
 - após iniciar a aplicaçã, ela estára disponível no endereço
